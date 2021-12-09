@@ -1,0 +1,12 @@
+body{
+    background-color: lightskyblue;
+}
+h1{
+    color: maroon;  background-color: mediumblue; text-decoration: underline; 
+}
+h2{
+    color: maroon; background-color: mediumblue;
+}
+p{
+    background-color: lightblue;
+}
